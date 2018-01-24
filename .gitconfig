@@ -1,0 +1,10 @@
+[user]
+	email = matt.krick@gmail.com
+	name = Matt Krick
+	signingkey = 04D82E51CEEBBEDD
+[core]
+	editor = subl -n -w
+[commit]
+	gpgSign = true
+[gpg]
+	program = gpg2
